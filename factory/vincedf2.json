@@ -1,0 +1,9 @@
+{
+	"name": "vincedf2",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf570dd9-053c-4082-8d72-25b4269b6022",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
