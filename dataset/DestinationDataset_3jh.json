@@ -1,0 +1,15 @@
+{
+	"name": "DestinationDataset_3jh",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabaseLinked",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"table": "Azure Blob Storage file"
+		}
+	}
+}
